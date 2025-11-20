@@ -19,3 +19,9 @@ A complete fullstack application with React frontend, Node.js backend, MongoDB d
 cd backend
 npm install
 npm run dev
+```
+### frontend setup
+```bash
+cd frondend
+npm install
+npm run dev
